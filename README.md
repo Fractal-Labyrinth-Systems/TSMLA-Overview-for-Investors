@@ -2,7 +2,15 @@
 
 **Fractal Labyrinth Systems LLC**  
 
-Contact: [research@fractalconsciousness.ai](mailto:research@fractalconsciousness.ai)
+## Contact
+
+For research, technical inquiries, or licensing discussions related to this repository:
+
+- **Research:** research@fractallabyrinthsystems.com  
+- **Founder:** califa@fractallabyrinthsystems.com
+
+Please direct all correspondence to the appropriate address above.
+
 
 Open to non-dilutive grants, paid pilots, and aligned pre-seed capital.
 
